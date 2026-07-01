@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0400/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0400/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曼殊室利童子菩薩五字瑜伽法
+  identifiers:
+    krp: KR6j0400
+    cbeta: T20n1176
+    cbeta_old_id: T20n1176
+    authorityid: CA0000681
+    json_key: T1176
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1176.xml
+    old_id: T20n1176
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0400_000-T.yaml, hash: 'sha256:fdb59e9ccd5245c6903835928085a1b9851415a12c35c3ff7560751ae371de09'}
+  - {seq: 1, filename: KR6j0400_001-T.yaml, hash: 'sha256:eb7d7f0269aadc612b78ceedff8cd192faac9ba5d22297ed964ed69cc30f3c9d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0400_000-T.markers.yaml, hash: 'sha256:8f1b9effd7366d557530f48427b65d70c90acb5d12479c10422b9e758b365e88'}
+  - {seq: 1, role: markers, filename: assets/KR6j0400_001-T.markers.yaml, hash: 'sha256:c0424536e58d0c71f343e3d7a850c5540760236dee0632411570b2722be9a1c2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0400_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 496
+  label: '曼殊室利童子菩薩五字瑜伽
+
+    法一卷'
+  type: juan
+  level: 1
+hash: sha256:119a800020f0c8c025fd1d426220434b1ad8885127d66af60950792f6c42ddc5
