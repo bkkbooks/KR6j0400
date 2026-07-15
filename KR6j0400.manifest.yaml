@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0400/v1
 canonical_location: https://kanripo.org/bkk/KR6j0400/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 曼殊室利童子菩薩五字瑜伽法
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0400_000.yaml, hash: 'sha256:fdb59e9ccd5245c6903835928085a1b9851415a12c35c3ff7560751ae371de09'}
-  - {seq: 1, filename: KR6j0400_001.yaml, hash: 'sha256:eb7d7f0269aadc612b78ceedff8cd192faac9ba5d22297ed964ed69cc30f3c9d'}
+  - {seq: 1, filename: KR6j0400_001.yaml, hash: 'sha256:2e1ad352f6d1ee5574826ba3a48f247a346126889996e2cead167db93e7f8a57'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0400_000.markers.yaml, hash: 'sha256:e18f689be88d06ae19e89fe659376b5f20f94aa1bb1b12191f93fea00c1ebf7e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0400_001.markers.yaml, hash: 'sha256:74cd184549a836877bf7cdfe593563f02bd3a1135d0315a21651f745857423ac'}
+  - {seq: 1, role: markers, filename: assets/KR6j0400_001.markers.yaml, hash: 'sha256:1b294a4021f1ac7b50d0e637ba81bd250742776f6e32e885baf44a40f9bbaf9b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
     法一卷'
   type: juan
   level: 1
-hash: sha256:a4c11dae9f54e152fd95b85aa579264a1189e3fbed1b93da4cc8b345e79eabf5
+hash: sha256:98de6a1e735b0789b4d10fc8683d3acf3b61f86b80ea43251bb5dd49b55f95a1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
